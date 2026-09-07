@@ -3,7 +3,10 @@
 ### 🚀 AIML Student | Full Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Full+Stack+Web+Developer;Python+%7C+Java+%7C+React+%7C+Node.js;Always+Learning+New+Technologies!" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+and+Machine+Learning+Student;Full+Stack+Web+Developer;Python+-+Java+-+React+-+Node.js;Always+Learning+New+Technologies"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
@@ -137,11 +140,96 @@ React • Node.js • Django • Database Technologies
 
 # 📚 Currently Learning
 
-```text
-📌 Data Structures & Algorithms
-📌 Advanced Python
-📌 Java Programming
-📌 Machine Learning
-📌 MERN Stack Development
-📌 Linux
-📌 Cloud Computing
+- 📌 Data Structures & Algorithms
+- 📌 Advanced Python
+- 📌 Java Programming
+- 📌 Machine Learning
+- 📌 MERN Stack Development
+- 📌 Linux
+- 📌 Cloud Computing
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Muthyala-Ganesh-6640&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Muthyala-Ganesh-6640&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muthyala-Ganesh-6640&layout=compact&theme=tokyonight"
+    alt="Most Used Languages"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Muthyala-Ganesh-6640&theme=tokyonight&no-frame=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+# 🎯 Career Goals
+
+🚀 Become a successful **Software Engineer**
+
+🤖 Build innovative **AI and Machine Learning applications**
+
+💻 Become a skilled **Full Stack Developer**
+
+☁️ Learn more about **Cloud Computing**
+
+💡 Build real-world products that solve real problems
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/muthyala-ganesh-kumar61909b357">
+  <img src="https://img.shields.io/badge/LinkedIn-Muthyala%20Ganesh-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/Muthyala-Ganesh-6640">
+  <img src="https://img.shields.io/badge/GitHub-Muthyala%20Ganesh-black?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+# 💡 Developer Quote
+
+> "Success is the result of continuous learning, consistent effort, and never giving up."
+
+---
+
+<p align="center">
+  ⭐ From <a href="https://github.com/Muthyala-Ganesh-6640">Muthyala Ganesh</a>
+</p>
