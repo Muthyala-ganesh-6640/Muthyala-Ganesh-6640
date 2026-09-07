@@ -1,9 +1,9 @@
 # Hi there, I'm Muthyala Ganesh 👋
 
-### 🚀 AIML Student | Full Stack Developer | Aspiring DevOps Engineer
+### 🚀 AIML Student | Full Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Full+Stack+Web+Developer;Python+%7C+Java+%7C+React+%7C+Node.js;Aspiring+DevOps+Engineer;Always+Learning+New+Technologies!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Full+Stack+Web+Developer;Python+%7C+Java+%7C+React+%7C+Node.js;Always+Learning+New+Technologies!" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 🎓 I am a **B.Tech student specializing in Artificial Intelligence and Machine Learning (AIML)**.
 
-💻 I am passionate about **Software Development, Artificial Intelligence, Machine Learning, Full Stack Development, and Cloud Technologies**.
+💻 I am passionate about **Software Development, Artificial Intelligence, Machine Learning, and Full Stack Development**.
 
 🚀 I enjoy building real-world projects that solve practical problems.
 
@@ -24,9 +24,8 @@
 - Machine Learning
 - MERN Stack Development
 - Cloud Computing
-- DevOps
 
-🎯 My goal is to become a skilled **Software Engineer / AI Engineer / DevOps Engineer** and contribute to impactful technology projects.
+🎯 My goal is to become a skilled **Software Engineer / AI Engineer / Full Stack Developer** and contribute to impactful technology projects.
 
 ---
 
@@ -35,25 +34,25 @@
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
 </p>
 
 ## 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </p>
 
 ## 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ## 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 - NumPy
@@ -61,13 +60,13 @@
 - Scikit-learn
 - Machine Learning
 - Logistic Regression
-- KNN
+- KNN Classification
 - Data Analysis
 
 ## ⚙️ Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 </p>
 
 ---
@@ -95,7 +94,7 @@ A smart agriculture platform designed to help farmers with useful agricultural i
 
 React • Node.js • Express.js • MongoDB • JWT • APIs
 
-🔗 Repository:
+🔗 Repository:  
 https://github.com/Muthyala-ganesh-6640/Bhoom_Bandhu
 
 ---
@@ -104,15 +103,15 @@ https://github.com/Muthyala-ganesh-6640/Bhoom_Bandhu
 
 A web-based application designed to manage blood donors, blood availability, and blood bank operations.
 
-### Features
+### ✨ Features
 
-- Donor Management
-- Blood Availability
-- User Authentication
-- Database Management
-- Easy Blood Request System
+- 🩸 Donor Management
+- 🏥 Blood Availability
+- 🔐 User Authentication
+- 🗄️ Database Management
+- 📋 Easy Blood Request System
 
-### Technologies
+### 🛠️ Technologies
 
 React • Node.js • Express.js • MongoDB
 
@@ -122,15 +121,15 @@ React • Node.js • Express.js • MongoDB
 
 A digital platform for managing and applying for bus passes.
 
-### Features
+### ✨ Features
 
-- Online Bus Pass Application
-- User Registration
-- Authentication
-- Pass Management
-- Digital Records
+- 📝 Online Bus Pass Application
+- 👤 User Registration
+- 🔐 Authentication
+- 🎫 Pass Management
+- 📊 Digital Records
 
-### Technologies
+### 🛠️ Technologies
 
 React • Node.js • Django • Database Technologies
 
@@ -144,7 +143,5 @@ React • Node.js • Django • Database Technologies
 📌 Java Programming
 📌 Machine Learning
 📌 MERN Stack Development
-📌 Docker
 📌 Linux
 📌 Cloud Computing
-📌 DevOps
