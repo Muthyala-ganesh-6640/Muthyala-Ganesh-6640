@@ -1,16 +1,150 @@
-## Hi there 👋
+# Hi there, I'm Muthyala Ganesh 👋
 
-<!--
-**Muthyala-ganesh-6640/Muthyala-Ganesh-6640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 AIML Student | Full Stack Developer | Aspiring DevOps Engineer
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Full+Stack+Web+Developer;Python+%7C+Java+%7C+React+%7C+Node.js;Aspiring+DevOps+Engineer;Always+Learning+New+Technologies!" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+🎓 I am a **B.Tech student specializing in Artificial Intelligence and Machine Learning (AIML)**.
+
+💻 I am passionate about **Software Development, Artificial Intelligence, Machine Learning, Full Stack Development, and Cloud Technologies**.
+
+🚀 I enjoy building real-world projects that solve practical problems.
+
+🌱 Currently improving my skills in:
+
+- Data Structures & Algorithms
+- Python Programming
+- Java Programming
+- Machine Learning
+- MERN Stack Development
+- Cloud Computing
+- DevOps
+
+🎯 My goal is to become a skilled **Software Engineer / AI Engineer / DevOps Engineer** and contribute to impactful technology projects.
+
+---
+
+# 🛠️ Technologies & Skills
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+</p>
+
+## 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- NumPy
+- Pandas
+- Scikit-learn
+- Machine Learning
+- Logistic Regression
+- KNN
+- Data Analysis
+
+## ⚙️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌾 Farm Future – Smart Farmer Assistant
+
+A smart agriculture platform designed to help farmers with useful agricultural information and digital services.
+
+### ✨ Features
+
+- 🌱 Crop Information
+- 💊 Fertilizer and Pesticide Information
+- 📈 Crop Market Prices
+- 🏛️ Government Schemes
+- 🌦️ Real-Time Weather Updates
+- 🦠 Plant Disease Detection
+- 📸 Image Upload for Crop Disease Identification
+- 🌐 Multi-Language Support
+- 📍 Nearby Agricultural Services
+- 📊 Digital Farm Record Management
+
+### 🛠️ Technologies
+
+React • Node.js • Express.js • MongoDB • JWT • APIs
+
+🔗 Repository:
+https://github.com/Muthyala-ganesh-6640/Bhoom_Bandhu
+
+---
+
+## 🩸 Blood Banking System
+
+A web-based application designed to manage blood donors, blood availability, and blood bank operations.
+
+### Features
+
+- Donor Management
+- Blood Availability
+- User Authentication
+- Database Management
+- Easy Blood Request System
+
+### Technologies
+
+React • Node.js • Express.js • MongoDB
+
+---
+
+## 🚌 Cloud Bus Pass System
+
+A digital platform for managing and applying for bus passes.
+
+### Features
+
+- Online Bus Pass Application
+- User Registration
+- Authentication
+- Pass Management
+- Digital Records
+
+### Technologies
+
+React • Node.js • Django • Database Technologies
+
+---
+
+# 📚 Currently Learning
+
+```text
+📌 Data Structures & Algorithms
+📌 Advanced Python
+📌 Java Programming
+📌 Machine Learning
+📌 MERN Stack Development
+📌 Docker
+📌 Linux
+📌 Cloud Computing
+📌 DevOps
